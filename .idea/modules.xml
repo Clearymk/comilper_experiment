@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/compiler_experiment.iml" filepath="$PROJECT_DIR$/compiler_experiment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lexer/lexer.iml" filepath="$PROJECT_DIR$/lexer/lexer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parserD/parserD.iml" filepath="$PROJECT_DIR$/parserD/parserD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parserR/parserR.iml" filepath="$PROJECT_DIR$/parserR/parserR.iml" />
+    </modules>
+  </component>
+</project>
